@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Pasta on Tony&#39;s Cookbook</title>
+    <link>http://localhost:1313/tags/pasta/</link>
+    <description>Recent content in Pasta on Tony&#39;s Cookbook</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Mar 2026 10:15:00 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/pasta/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Demo Recipe: Garlic Butter Pasta</title>
+      <link>http://localhost:1313/posts/first-demo-recipe/</link>
+      <pubDate>Fri, 13 Mar 2026 10:15:00 +0200</pubDate>
+      <guid>http://localhost:1313/posts/first-demo-recipe/</guid>
+      <description>A quick, simple demo recipe post for the cookbook.</description>
+    </item>
+  </channel>
+</rss>

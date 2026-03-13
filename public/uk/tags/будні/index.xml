@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Будні on Tony&#39;s Cookbook</title>
+    <link>http://localhost:1313/uk/tags/%D0%B1%D1%83%D0%B4%D0%BD%D1%96/</link>
+    <description>Recent content in Будні on Tony&#39;s Cookbook</description>
+    <generator>Hugo</generator>
+    <language>uk-ua</language>
+    <lastBuildDate>Fri, 13 Mar 2026 12:10:00 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/uk/tags/%D0%B1%D1%83%D0%B4%D0%BD%D1%96/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Курка з рисом, лимоном і травами в одній пательні</title>
+      <link>http://localhost:1313/uk/posts/one-pan-lemon-herb-chicken-rice/</link>
+      <pubDate>Fri, 13 Mar 2026 12:10:00 +0200</pubDate>
+      <guid>http://localhost:1313/uk/posts/one-pan-lemon-herb-chicken-rice/</guid>
+      <description>Яскрава й затишна вечеря в одній пательні з соковитою куркою та ароматним рисом.</description>
+    </item>
+  </channel>
+</rss>

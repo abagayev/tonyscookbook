@@ -1,11 +1,49 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tony&#39;s Cookbook</title>
+    <title>Hi, I&#39;m Tony on Tony&#39;s Cookbook</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Tony&#39;s Cookbook</description>
+    <description>Recent content in Hi, I&#39;m Tony on Tony&#39;s Cookbook</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <lastBuildDate>Fri, 13 Mar 2026 12:10:00 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>One-Pan Lemon Herb Chicken &amp; Rice</title>
+      <link>http://localhost:1313/posts/one-pan-lemon-herb-chicken-rice/</link>
+      <pubDate>Fri, 13 Mar 2026 12:10:00 +0200</pubDate>
+      <guid>http://localhost:1313/posts/one-pan-lemon-herb-chicken-rice/</guid>
+      <description>A bright, cozy one-pan dinner with juicy chicken and herby rice.</description>
+    </item>
+    <item>
+      <title>Demo Recipe: Garlic Butter Pasta</title>
+      <link>http://localhost:1313/posts/first-demo-recipe/</link>
+      <pubDate>Fri, 13 Mar 2026 10:15:00 +0200</pubDate>
+      <guid>http://localhost:1313/posts/first-demo-recipe/</guid>
+      <description>A quick, simple demo recipe post for the cookbook.</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Fri, 13 Mar 2026 10:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Hi, I’m Tony.&lt;/p&gt;
+&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/tony.jpg&#34;
+         alt=&#34;Tony in the kitchen&#34; width=&#34;420&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;Hi, I&amp;rsquo;m Tony&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;I created this cookbook to share practical home recipes that are easy to follow and genuinely tasty. My goal is to keep every post simple, clear, and repeatable.&lt;/p&gt;
+&lt;h2 id=&#34;what-youll-find-here&#34;&gt;What you’ll find here&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Weeknight-friendly meals&lt;/li&gt;
+&lt;li&gt;Tested recipes with straightforward steps&lt;/li&gt;
+&lt;li&gt;Notes and small tweaks that improve results&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;my-cooking-style&#34;&gt;My cooking style&lt;/h2&gt;
+&lt;p&gt;I like balanced flavors, simple ingredients, and techniques that don’t require fancy equipment. If a recipe can be made easier without losing flavor, I’ll usually choose the simpler path.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
