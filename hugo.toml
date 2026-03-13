@@ -33,3 +33,7 @@ ShowLanguageSwitcher = true
 			name = "Про мене"
 			url = "/uk/about/"
 			weight = 10
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
