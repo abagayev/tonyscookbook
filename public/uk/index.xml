@@ -6,44 +6,28 @@
     <description>Recent content in Привіт, я Тоні on Tony&#39;s Cookbook</description>
     <generator>Hugo</generator>
     <language>uk-ua</language>
-    <lastBuildDate>Fri, 13 Mar 2026 12:10:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 10:15:00 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/uk/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Курка з рисом, лимоном і травами в одній пательні</title>
-      <link>http://localhost:1313/uk/posts/one-pan-lemon-herb-chicken-rice/</link>
-      <pubDate>Fri, 13 Mar 2026 12:10:00 +0200</pubDate>
-      <guid>http://localhost:1313/uk/posts/one-pan-lemon-herb-chicken-rice/</guid>
-      <description>Яскрава й затишна вечеря в одній пательні з соковитою куркою та ароматним рисом.</description>
-    </item>
-    <item>
-      <title>Демо-рецепт: Паста з часником і маслом</title>
-      <link>http://localhost:1313/uk/posts/first-demo-recipe/</link>
+      <title>Реально дурнувато простий борщ</title>
+      <link>http://localhost:1313/uk/posts/realno-durnuvato-prostyi-borscht/</link>
       <pubDate>Fri, 13 Mar 2026 10:15:00 +0200</pubDate>
-      <guid>http://localhost:1313/uk/posts/first-demo-recipe/</guid>
-      <description>Швидкий і простий демо-рецепт для кулінарного блогу.</description>
+      <guid>http://localhost:1313/uk/posts/realno-durnuvato-prostyi-borscht/</guid>
+      <description>&lt;p&gt;Перш ніж почати, давайте домовимось, що ви &lt;em&gt;ніколи&lt;/em&gt; не зварите борщ, який сподобається всім. Сперечатись, яким має бути борщ — частина культури, яка глибоко сидить всередині кожного українця. Кожен історичний час, регіон, сім’я, або окремо взятий господар чи господиня має свій рецепт. А хтось любить тільки борщ своєї мами, і з цим нічого не зробиш.&lt;/p&gt;
+&lt;p&gt;Тож цей рецепт буде тільки між нами. Зваріть його і станьте трохи щасливішими від того, що у вашому холодильнику стоїть каструля борщу. А якщо захочете ним поділитися, то тільки з тими, кого насправді любите.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Про мене</title>
       <link>http://localhost:1313/uk/about/</link>
-      <pubDate>Fri, 13 Mar 2026 10:00:00 +0200</pubDate>
+      <pubDate>Sun, 13 Apr 2025 10:00:00 +0200</pubDate>
       <guid>http://localhost:1313/uk/about/</guid>
-      <description>&lt;p&gt;Привіт, я Тоні.&lt;/p&gt;
+      <description>&lt;p&gt;Привіт, мене звати Антон. Я роблю багато речей, але тут буде тільки про їжу. Цей блог було створено, щоб поділитися рецептами з тим, кого люблю.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/tony.jpg&#34;
-         alt=&#34;Тоні на кухні&#34; width=&#34;420&#34;/&gt; &lt;figcaption&gt;
-            &lt;p&gt;Привіт, я Тоні&lt;/p&gt;
-        &lt;/figcaption&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/tony.jpeg&#34; width=&#34;320&#34;/&gt; 
 &lt;/figure&gt;
 
-&lt;p&gt;Я створив цей сайт, щоб ділитися практичними домашніми рецептами, які легко повторити та приємно готувати. Моя мета — робити кожен рецепт зрозумілим, чітким і надійним.&lt;/p&gt;
-&lt;h2 id=&#34;що-ви-знайдете-тут&#34;&gt;Що ви знайдете тут&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Страви для буднів&lt;/li&gt;
-&lt;li&gt;Перевірені рецепти з покроковими інструкціями&lt;/li&gt;
-&lt;li&gt;Невеликі поради та зміни, які реально покращують результат&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;мій-стиль-готування&#34;&gt;Мій стиль готування&lt;/h2&gt;
-&lt;p&gt;Мені подобаються збалансовані смаки, прості інгредієнти та техніки без складного обладнання. Якщо рецепт можна спростити без втрати смаку — я обираю простіший шлях.&lt;/p&gt;</description>
+&lt;p&gt;Доречі, я не ношу вуса, але мені було важко знайти кращу фотку для цієї сторінки, тож вам доведеться це терпіти.&lt;/p&gt;
+&lt;p&gt;P. S. Привіт, Матеусе!&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

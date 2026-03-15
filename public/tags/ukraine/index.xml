@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ukraine on Tony&#39;s Cookbook</title>
+    <link>http://localhost:1313/tags/ukraine/</link>
+    <description>Recent content in Ukraine on Tony&#39;s Cookbook</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Mar 2026 10:15:00 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/ukraine/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Really stupid simple borscht</title>
+      <link>http://localhost:1313/posts/really-stupid-simple-borscht/</link>
+      <pubDate>Fri, 13 Mar 2026 10:15:00 +0200</pubDate>
+      <guid>http://localhost:1313/posts/really-stupid-simple-borscht/</guid>
+      <description>&lt;p&gt;This is the first demo recipe post for the blog.&lt;/p&gt;
+&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/random-recipe-art.svg&#34;
+         alt=&#34;Random recipe illustration&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;Demo visual for recipe layout&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&#34;time&#34;&gt;Time&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Prep: 5 minutes&lt;/li&gt;
+&lt;li&gt;Cook: 12 minutes&lt;/li&gt;
+&lt;li&gt;Total: 17 minutes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;ingredients-2-servings&#34;&gt;Ingredients (2 servings)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;200 g spaghetti&lt;/li&gt;
+&lt;li&gt;3 tbsp butter&lt;/li&gt;
+&lt;li&gt;3 garlic cloves, minced&lt;/li&gt;
+&lt;li&gt;1/4 tsp chili flakes (optional)&lt;/li&gt;
+&lt;li&gt;2 tbsp reserved pasta water&lt;/li&gt;
+&lt;li&gt;2 tbsp grated parmesan&lt;/li&gt;
+&lt;li&gt;Salt and black pepper, to taste&lt;/li&gt;
+&lt;li&gt;Chopped parsley, for serving&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;steps&#34;&gt;Steps&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Boil salted water and cook spaghetti until al dente.&lt;/li&gt;
+&lt;li&gt;Reserve a little pasta water, then drain the pasta.&lt;/li&gt;
+&lt;li&gt;Melt butter in a pan over medium heat and add garlic.&lt;/li&gt;
+&lt;li&gt;Cook garlic for 30–45 seconds until fragrant (do not brown).&lt;/li&gt;
+&lt;li&gt;Add chili flakes, pasta, and a splash of reserved water.&lt;/li&gt;
+&lt;li&gt;Toss until glossy, then season with salt and pepper.&lt;/li&gt;
+&lt;li&gt;Turn off heat, mix in parmesan, and top with parsley.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;notes&#34;&gt;Notes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Add lemon zest for brightness.&lt;/li&gt;
+&lt;li&gt;Add cooked shrimp or mushrooms for extra protein.&lt;/li&gt;
+&lt;li&gt;Use less butter and more pasta water for a lighter version.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
