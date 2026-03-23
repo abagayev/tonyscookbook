@@ -6,8 +6,15 @@
     <description>Recent content in Hi, I&#39;m Tony on Tony&#39;s Cookbook</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Mar 2026 10:15:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2026 20:20:00 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>World famous banana bread</title>
+      <link>http://localhost:1313/posts/world-famous-banana-bread/</link>
+      <pubDate>Sun, 22 Mar 2026 20:20:00 +0200</pubDate>
+      <guid>http://localhost:1313/posts/world-famous-banana-bread/</guid>
+      <description>&lt;p&gt;At the time of publishing this banana bread recipe, I have served it to people from about 12 countries around the world, so I can safely call it world famous. In fact, there is nothing particularly special about it, but it is probably one of my oldest recipes. It was copied from a blog that probably no longer exists, and hundreds of bananas and dozens of ovens later, it, like me, is not the same anymore.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Really stupid simple borscht</title>
       <link>http://localhost:1313/posts/really-stupid-simple-borscht/</link>

@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/uk/categories/</loc>
-    <lastmod>2026-03-13T12:10:00+02:00</lastmod>
+    <lastmod>2026-03-22T20:20:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -15,47 +15,8 @@
                 href="http://localhost:1313/uk/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/uk/tags/one-pan/</loc>
-    <lastmod>2026-03-13T12:10:00+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/tags/one-pan/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="uk-ua"
-                href="http://localhost:1313/uk/tags/one-pan/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/uk/posts/</loc>
-    <lastmod>2026-03-13T12:10:00+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="uk-ua"
-                href="http://localhost:1313/uk/posts/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/uk/categories/recipes/</loc>
-    <lastmod>2026-03-13T12:10:00+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/categories/recipes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="uk-ua"
-                href="http://localhost:1313/uk/categories/recipes/"
-                />
-  </url><url>
     <loc>http://localhost:1313/uk/tags/</loc>
-    <lastmod>2026-03-13T12:10:00+02:00</lastmod>
+    <lastmod>2026-03-22T20:20:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -67,27 +28,24 @@
                 href="http://localhost:1313/uk/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/uk/tags/%D0%B1%D1%83%D0%B4%D0%BD%D1%96/</loc>
-    <lastmod>2026-03-13T12:10:00+02:00</lastmod>
+    <loc>http://localhost:1313/uk/tags/%D0%B2%D0%B8%D0%BF%D1%96%D1%87%D0%BA%D0%B0/</loc>
+    <lastmod>2026-03-22T20:20:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/uk/tags/%D0%BA%D1%83%D1%80%D0%BA%D0%B0/</loc>
-    <lastmod>2026-03-13T12:10:00+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/uk/posts/one-pan-lemon-herb-chicken-rice/</loc>
-    <lastmod>2026-03-13T12:10:00+02:00</lastmod>
+    <loc>http://localhost:1313/uk/posts/vsesvitno-vidomyi-bananovyi-khlib/</loc>
+    <lastmod>2026-03-22T20:20:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/posts/one-pan-lemon-herb-chicken-rice/"
+                href="http://localhost:1313/posts/world-famous-banana-bread/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-ua"
-                href="http://localhost:1313/uk/posts/one-pan-lemon-herb-chicken-rice/"
+                href="http://localhost:1313/uk/posts/vsesvitno-vidomyi-bananovyi-khlib/"
                 />
   </url><url>
     <loc>http://localhost:1313/uk/</loc>
-    <lastmod>2026-03-13T12:10:00+02:00</lastmod>
+    <lastmod>2026-03-22T20:20:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -99,30 +57,30 @@
                 href="http://localhost:1313/uk/"
                 />
   </url><url>
-    <loc>http://localhost:1313/uk/tags/%D0%B4%D0%B5%D0%BC%D0%BE/</loc>
-    <lastmod>2026-03-13T10:15:00+02:00</lastmod>
+    <loc>http://localhost:1313/uk/categories/%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D0%B8/</loc>
+    <lastmod>2026-03-22T20:20:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/uk/posts/first-demo-recipe/</loc>
+    <loc>http://localhost:1313/uk/posts/realno-durnuvato-prostyi-borscht/</loc>
     <lastmod>2026-03-13T10:15:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/posts/first-demo-recipe/"
+                href="http://localhost:1313/posts/really-stupid-simple-borscht/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-ua"
-                href="http://localhost:1313/uk/posts/first-demo-recipe/"
+                href="http://localhost:1313/uk/posts/realno-durnuvato-prostyi-borscht/"
                 />
   </url><url>
-    <loc>http://localhost:1313/uk/tags/%D0%BF%D0%B0%D1%81%D1%82%D0%B0/</loc>
+    <loc>http://localhost:1313/uk/tags/%D1%81%D1%83%D0%BF/</loc>
     <lastmod>2026-03-13T10:15:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/uk/tags/%D1%88%D0%B2%D0%B8%D0%B4%D0%BA%D1%96-%D1%81%D1%82%D1%80%D0%B0%D0%B2%D0%B8/</loc>
+    <loc>http://localhost:1313/uk/tags/%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%B5/</loc>
     <lastmod>2026-03-13T10:15:00+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/uk/about/</loc>
-    <lastmod>2026-03-13T10:00:00+02:00</lastmod>
+    <lastmod>2025-04-13T10:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"

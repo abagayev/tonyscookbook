@@ -6,13 +6,13 @@
     <description>Recent content in Categories on Tony&#39;s Cookbook</description>
     <generator>Hugo</generator>
     <language>uk-ua</language>
-    <lastBuildDate>Fri, 13 Mar 2026 12:10:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2026 20:20:00 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/uk/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Recipes</title>
-      <link>http://localhost:1313/uk/categories/recipes/</link>
-      <pubDate>Fri, 13 Mar 2026 12:10:00 +0200</pubDate>
-      <guid>http://localhost:1313/uk/categories/recipes/</guid>
+      <title>Рецепти</title>
+      <link>http://localhost:1313/uk/categories/%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D0%B8/</link>
+      <pubDate>Sun, 22 Mar 2026 20:20:00 +0200</pubDate>
+      <guid>http://localhost:1313/uk/categories/%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D0%B8/</guid>
       <description></description>
     </item>
   </channel>
