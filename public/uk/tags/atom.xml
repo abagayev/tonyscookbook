@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Tony&#39;s Cookbook</title>
+    <link>http://localhost:1313/uk/tags/</link>
+    <description>Recent content in Tags on Tony&#39;s Cookbook</description>
+    <generator>Hugo</generator>
+    <language>uk-ua</language>
+    <lastBuildDate>Sun, 22 Mar 2026 20:20:00 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/uk/tags/atom.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Випічка</title>
+      <link>http://localhost:1313/uk/tags/%D0%B2%D0%B8%D0%BF%D1%96%D1%87%D0%BA%D0%B0/</link>
+      <pubDate>Sun, 22 Mar 2026 20:20:00 +0200</pubDate>
+      <guid>http://localhost:1313/uk/tags/%D0%B2%D0%B8%D0%BF%D1%96%D1%87%D0%BA%D0%B0/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Суп</title>
+      <link>http://localhost:1313/uk/tags/%D1%81%D1%83%D0%BF/</link>
+      <pubDate>Fri, 13 Mar 2026 10:15:00 +0200</pubDate>
+      <guid>http://localhost:1313/uk/tags/%D1%81%D1%83%D0%BF/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Українське</title>
+      <link>http://localhost:1313/uk/tags/%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%B5/</link>
+      <pubDate>Fri, 13 Mar 2026 10:15:00 +0200</pubDate>
+      <guid>http://localhost:1313/uk/tags/%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%B5/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

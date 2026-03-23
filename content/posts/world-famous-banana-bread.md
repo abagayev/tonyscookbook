@@ -6,6 +6,7 @@ draft = false
 author = "Tony"
 tags = ["Baking"]
 categories = ["recipes"]
+images = ["/images/food/banana-bread.jpeg"]
 +++
 
 At the time of publishing this banana bread recipe, I have served it to people from about 12 countries around the world, so I can safely call it world famous. In fact, there is nothing particularly special about it, but it is probably one of my oldest recipes. It was copied from a blog that probably no longer exists, and hundreds of bananas and dozens of ovens later, it, like me, is not the same anymore.

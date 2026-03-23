@@ -6,6 +6,7 @@ draft = false
 author = "Tony"
 tags = ["Ukrainian", "Soup"]
 categories = ["recipes"]
+images = ["/images/food/borscht.jpeg"]
 +++
 
 Before we begin, let’s agree that you will *never* cook a borscht that everyone will like. Arguing about what borscht should be is a part of culture that is deeply rooted in every Ukrainian. Every historical period, region, family, or individual host or hostess has its own recipe. And someone only loves their mother’s borscht, and there’s nothing you can do about it.
@@ -14,7 +15,7 @@ So this recipe will be just between us. Cook it and become a little happier that
 
 So, let’s go borscht!
 
-{{< figure src="/images/food/borsсht.jpeg" >}}
+{{< figure src="/images/food/borscht.jpeg" >}}
 
 ## Ingredients for borscht
 

@@ -1,0 +1,125 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    
+    <title>Tony&#39;s Cookbook</title>
+    <description>A minimal hugo theme focus on content</description>
+    <link>http://localhost:1313/</link>
+    
+    <language>en</language>
+    
+    <copyright>Copyright 2026, Calvin Tran</copyright>
+    <lastBuildDate>Sun, 22 Mar 2026 20:20:00 +0200</lastBuildDate>
+    <generator>Hugo - gohugo.io</generator>
+    <docs>http://cyber.harvard.edu/rss/rss.html</docs>
+    <atom:link href="http://localhost:1313//atom.xml" rel="self" type="application/atom+xml"/>
+    
+    <item>
+      <title>World famous banana bread</title>
+      <link>http://localhost:1313/posts/world-famous-banana-bread/</link>
+      <description>&lt;p&gt;At the time of publishing this banana bread recipe, I have served it to people from about 12 countries around the world, so I can safely call it world famous. In fact, there is nothing particularly special about it, but it is probably one of my oldest recipes. It was copied from a blog that probably no longer exists, and hundreds of bananas and dozens of ovens later, it, like me, is not the same anymore.&lt;/p&gt;
+&lt;p&gt;Before we get to the ingredient list, we need to talk about something very important. It&amp;rsquo;s too early to talk about banana bread until your bananas look like this:&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/ingredients/bananas.jpeg&#34;&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Don&amp;rsquo;t your bananas look like this yet? Let them listen to Led Zeppelin vinyl, watch a good movie together. Let them ripen, or better, &lt;strong&gt;overripe&lt;/strong&gt;. Let them become less starchy and more sugary. The black specks promise you a richer flavor, a softer texture, and a more pronounced banana aroma.&lt;/p&gt;
+&lt;p&gt;So you&amp;rsquo;ve eaten most of your bananas and only have one left? Bananas freeze beautifully: just peel them, cut them in half, wrap them in a bag, and put the bag in the freezer. Repeat the process until you have three ripe bananas.&lt;/p&gt;
+&lt;p&gt;So, you already have three ripe bananas? Then on to the recipe!&lt;/p&gt;
+&lt;h2 id=&#34;ingredients-for-banana-bread&#34;&gt;Ingredients for banana bread&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;(over)ripe bananas, 3 pcs&lt;/li&gt;
+&lt;li&gt;butter, 90 g&lt;/li&gt;
+&lt;li&gt;egg, 1 pc&lt;/li&gt;
+&lt;li&gt;wheat flour, 180 g&lt;/li&gt;
+&lt;li&gt;baking powder, 8 g&lt;/li&gt;
+&lt;li&gt;sugar, 150 g&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;you-will-need-to-taste&#34;&gt;You will need to taste&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;vanilla extract&lt;/li&gt;
+&lt;li&gt;Greek yogurt, or sour cream&lt;/li&gt;
+&lt;li&gt;lemon juice&lt;/li&gt;
+&lt;li&gt;nuts&lt;/li&gt;
+&lt;li&gt;salt&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Set the oven to 180 degrees. Separate 80g of butter into a small pan and put it on the lowest heat so that it simmers and slowly melts, but does not get very hot. Pour the rest of the butter into a rectangular bread pan and leave it as is for now.&lt;/p&gt;
+&lt;p&gt;Now let&amp;rsquo;s look at the cooking algorithm, it is quite classic for such baking: prepare dry, then wet ingredients, mix everything together, pour into the pan and send it to the oven.&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/processes/0-AB-C.png&#34;&gt;
+&lt;/figure&gt;
+
+&lt;h3 id=&#34;process-a-dry-ingredients&#34;&gt;Process A: Dry Ingredients.&lt;/h3&gt;
+&lt;p&gt;Sift flour, sugar, baking powder, and salt.&lt;/p&gt;
+&lt;h3 id=&#34;process-b-wet-ingredients&#34;&gt;Process B: Wet Ingredients&lt;/h3&gt;
+&lt;p&gt;Toss the bananas in a bowl and add a little lemon juice. This will protect the bananas from oxidation and make the cake look much lighter. Mash with a fork until it is a &lt;em&gt;smooth paste&lt;/em&gt;. Don&amp;rsquo;t try to achieve perfection, but don&amp;rsquo;t allow large lumps either.&lt;/p&gt;
+&lt;p&gt;Add the egg, a teaspoon each of yogurt and vanilla extract and mix. In two batches, add the dry ingredients and mix until smooth.&lt;/p&gt;
+&lt;p&gt;Let the dough rest for 10 minutes, during which time the flour will absorb some of the liquid, the gluten will relax a little, and the baking powder will start working. Don&amp;rsquo;t skip this step and you will get a softer and more evenly risen cake.&lt;/p&gt;
+&lt;h3 id=&#34;process-c-the-finale&#34;&gt;Process C: The Finale.&lt;/h3&gt;
+&lt;p&gt;While the ingredients in the dough are getting to know each other, you have time to make the final preparations. The butter that has already softened in the mold can be rubbed evenly over the bottom and walls. If you are using nuts, chop them finely.&lt;/p&gt;
+&lt;p&gt;Pour the dough into the mold, sprinkle nuts on top and put in the oven for 45 minutes.&lt;/p&gt;
+&lt;p&gt;You will understand that the cake is ready when you feel the persistent smell of bananas baking, and see a crack that looks like the mouth of a volcano in the middle of the cake. But it is better to rely on the internal temperature of 93-97 degrees, if you have a thermometer.&lt;/p&gt;
+&lt;p&gt;Remove the finished bread from the oven and let it cool for at least an hour. Do not cover to preserve a nice tender crust on top of the cake.&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/food/banana-bread.jpeg&#34;&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&#34;how-to-improve-this-recipe&#34;&gt;How to improve this recipe&lt;/h2&gt;
+&lt;p&gt;Experiment with the filling! Try different nuts, chocolate, or even herbs. Serve the banana bread with ice cream or yogurt.&lt;/p&gt;
+&lt;p&gt;Grill a slice of banana bread. It&amp;rsquo;s an unexpected discovery, but after that, few cafes will be able to top your recipe.&lt;/p&gt;
+</description>
+      <author>Calvin Tran</author>
+      <guid>http://localhost:1313/posts/world-famous-banana-bread/</guid>
+      <pubDate>Sun, 22 Mar 2026 20:20:00 +0200</pubDate>
+    </item>
+    
+    <item>
+      <title>Really stupid simple borscht</title>
+      <link>http://localhost:1313/posts/really-stupid-simple-borscht/</link>
+      <description>&lt;p&gt;Before we begin, let’s agree that you will &lt;em&gt;never&lt;/em&gt; cook a borscht that everyone will like. Arguing about what borscht should be is a part of culture that is deeply rooted in every Ukrainian. Every historical period, region, family, or individual host or hostess has its own recipe. And someone only loves their mother’s borscht, and there’s nothing you can do about it.&lt;/p&gt;
+&lt;p&gt;So this recipe will be just between us. Cook it and become a little happier that there is a pot of borscht in your refrigerator. And if you want to share it, then only do it with those you really love.&lt;/p&gt;
+&lt;p&gt;So, let’s go borscht!&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/food/bors%D1%81ht.jpeg&#34;&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&#34;ingredients-for-borscht&#34;&gt;Ingredients for borscht&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;medium-sized potatoes, 4 pcs&lt;/li&gt;
+&lt;li&gt;small beets, 2 pcs&lt;/li&gt;
+&lt;li&gt;carrots, 1 pc&lt;/li&gt;
+&lt;li&gt;medium onion, 3 pcs&lt;/li&gt;
+&lt;li&gt;white cabbage, 300 g&lt;/li&gt;
+&lt;li&gt;tomato paste, 2 tbsp&lt;/li&gt;
+&lt;li&gt;lemon, 0.5 pcs&lt;/li&gt;
+&lt;li&gt;water 1.5 l&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;to-your-taste&#34;&gt;To your taste&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;salt&lt;/li&gt;
+&lt;li&gt;oil&lt;/li&gt;
+&lt;li&gt;bay leaf&lt;/li&gt;
+&lt;li&gt;greens&lt;/li&gt;
+&lt;li&gt;sour cream or yogurt&lt;/li&gt;
+&lt;li&gt;green onions&lt;/li&gt;
+&lt;li&gt;bread&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Put the pot with water on fire. Grate the beets and carrots. Chop the cabbage. Cut the onion, potatoes and herbs.&lt;/p&gt;
+&lt;p&gt;Now let’s look at the cooking algorithm. To save time, we will fry and boil the vegetables at the same time. Then we will combine them together, and this is how a pot of borscht is born.&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/processes/0-AB-C.png&#34;&gt;
+&lt;/figure&gt;
+
+&lt;h3 id=&#34;process-a-frying&#34;&gt;Process A: frying.&lt;/h3&gt;
+&lt;p&gt;Put the frying pan on medium heat. Pour in the oil, add the onion and carrot, fry for 5 minutes. Then add the beets and lemon juice. Acid will not only add a pleasant sourness, but also preserve the red color of the beets.&lt;/p&gt;
+&lt;p&gt;Fry the vegetables for another 5 minutes, add the tomato paste, mix and fry for another 5-10 minutes. When it seems to you that you are ready to eat the frying straight from the pan, it means that it is definitely ready.&lt;/p&gt;
+&lt;h3 id=&#34;process-b-boiling&#34;&gt;Process B: boiling.&lt;/h3&gt;
+&lt;p&gt;Throw the shredded cabbage into the water. After 5-10 minutes, add the potatoes.&lt;/p&gt;
+&lt;h3 id=&#34;process-c-final&#34;&gt;Process C: final.&lt;/h3&gt;
+&lt;p&gt;Add the frying from the pan to the pot. Stir the borscht, add the bay leaf and most of the herbs, cover and cook for another 5-7 minutes. Turn off the heat, do not lift the lid and let the borscht infuse for an hour, or as long as you have the patience.&lt;/p&gt;
+&lt;p&gt;Put everything you like on the table – bread, sour cream or yogurt, leftover herbs, green onions, pour the borscht onto plates.&lt;/p&gt;
+&lt;h2 id=&#34;how-to-improve-this-recipe&#34;&gt;How to improve this recipe&lt;/h2&gt;
+&lt;p&gt;Cook the borscht with a meat broth base, but adjust the amount of liquid during the cooking process to match the ingredient list.&lt;/p&gt;
+&lt;p&gt;For a vegetarian version: add a small can of baked beans in tomato sauce at the end of the process.&lt;/p&gt;
+</description>
+      <author>Calvin Tran</author>
+      <guid>http://localhost:1313/posts/really-stupid-simple-borscht/</guid>
+      <pubDate>Fri, 13 Mar 2026 10:15:00 +0200</pubDate>
+    </item>
+    
+  </channel>
+</rss>
