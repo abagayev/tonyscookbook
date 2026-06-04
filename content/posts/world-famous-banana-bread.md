@@ -52,7 +52,7 @@ Sift flour, sugar, baking powder, and salt.
 
 Toss the bananas in a bowl and add a little lemon juice. This will protect the bananas from oxidation and make the cake look much lighter. Mash with a fork until it is a *smooth paste*. Don't try to achieve perfection, but don't allow large lumps either.
 
-Add the egg, a teaspoon each of yogurt and vanilla extract and mix. In two batches, add the dry ingredients and mix until smooth.
+Add the egg, a teaspoon each of yogurt and vanilla extract and mix. Gradually, while stirring, add the melted butter. In two batches, add the dry ingredients and mix until smooth.
 
 Let the dough rest for 10 minutes, during which time the flour will absorb some of the liquid, the gluten will relax a little, and the baking powder will start working. Don't skip this step and you will get a softer and more evenly risen cake.
 
@@ -70,6 +70,6 @@ Remove the finished bread from the oven and let it cool for at least an hour. Do
 
 ## How to improve this recipe
 
-Experiment with the filling! Try different nuts, chocolate, or even herbs. Serve the banana bread with ice cream or yogurt.
+Experiment with the filling! Try different nuts, chocolate, or even herbs. Stir in chia seeds, peanut butter, or berries. Serve the banana bread with ice cream or yogurt. Replace bananas with mango puree.
 
 Grill a slice of banana bread. It's an unexpected discovery, but after that, few cafes will be able to top your recipe.
