@@ -54,7 +54,7 @@ Toss the bananas in a bowl and add a little lemon juice. This will protect the b
 
 Add the egg, a teaspoon each of yogurt and vanilla extract and mix. Gradually, while stirring, add the melted butter. In two batches, add the dry ingredients and mix until smooth.
 
-Let the dough rest for 10 minutes, during which time the flour will absorb some of the liquid, the gluten will relax a little, and the baking powder will start working. Don't skip this step and you will get a softer and more evenly risen cake.
+Let the dough rest for 10 minutes, during which time the flour will absorb some of the liquid, the gluten will relax a little, and the baking powder will start working. Don't skip this step and you will get a softer and more evenly baked cake.
 
 ### Process C: The Finale.
 
