@@ -1,7 +1,7 @@
 +++
 title = "Цілком сімейне тірамісу"
 translationKey="completely-family-friendly-tiramisu"
-date = 2026-1-07T20:20:00+02:00
+date = 2026-11-07T20:20:00+02:00
 draft = true
 author = "Tony"
 tags = ["Випічка"]
